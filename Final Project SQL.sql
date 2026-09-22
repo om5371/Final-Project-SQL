@@ -1,5 +1,8 @@
 -- University CMS Project
 
+create database university;
+use university;
+
 create table Departments (
     DepartmentID int primary key,
     DepartmentName varchar(50)
