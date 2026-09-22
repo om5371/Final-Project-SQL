@@ -1,4 +1,4 @@
-# Final_Project.sql — University Course Management System (UniversityCMS)
+# Final_Project — University Course Management System (UniversityCMS)
 
 ## 1. Project Overview
 
