@@ -492,3 +492,13 @@ python3 run_queries.py
 | `Final_Project.sql` | The complete MySQL script: schema, sample data, and all 16 queries |
 | `README.md` | This document — objective, explanation, and verified output for every query |
 | `run_queries.py` | Python harness that executes the script logic and generates the output tables above |
+
+---
+## 🎬 Project Demonstration
+  <a href="">
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-success?style=for-the-badge">
+  </a>
+</p>
+
+---
+
